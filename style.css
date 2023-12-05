@@ -1,0 +1,41 @@
+h1{color: #c3c3dd: center;}
+a{text-decoration: none;color: aliceblue;padding: 0 0.7em;}
+.buton{display: flex;text-decoration: none;list-style: none;}
+#propos{text-align: center;}
+h2{color: blue;text-align: center;}
+#travail{text-align: center;}
+body{
+    background-color: black;overflow-x: hidden;
+}
+.bac{
+    background-color: gold;
+    height: 600px;
+    width: 1500px;
+}
+.tra{
+    background-color: aquamarine;
+    height: 600px;
+    width: 1500px;
+}
+label{
+    color: antiquewhite;
+}
+
+.cv{
+    background-color: gray;
+    height: 600px;
+    width: 1500px;
+}    
+.cv p{
+    position: relative;left: 500px;
+}
+h3{
+    position: relative;left: 750px;
+}
+p{
+    position: relative;top: 200px;
+
+}
+iframe{
+    position: relative;left: 300px;
+}
